@@ -58,7 +58,3 @@ pip install openpyxl matplotlib
 En la terminal o en Jupyter Notebook, desde la carpeta del proyecto:
 
 python JuegoPrincipal.py
-
-Esto iniciará el menú principal y permitirá seleccionar entre las distintas opciones y modos de juego.
-- Validación de entradas del usuario  
-- Aplicación de buenas prácticas en la organización de código y repositorios
